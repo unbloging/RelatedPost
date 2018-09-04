@@ -1,0 +1,2 @@
+# RelatedPost
+Related Post
